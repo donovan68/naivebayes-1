@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1551596813 source:e:\nguli\harus bangun\1301164350_naive bayes\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<string>
+	<cmath>
+	<stdlib.h>
+	<stdio.h>
+
