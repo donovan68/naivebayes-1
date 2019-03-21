@@ -182,9 +182,9 @@ int main()
     cout<<"Jumlah >50K : "<<jumlahTrue<<"   Jumlah <=50K : "<<jumlahFalse<<endl;
     cout<<"Total Data Train : "<<totalDataTrain<<"   Total Data Test : "<<totalDataTest<<endl;
     cout<<endl;
-    cout<<"Hasil filenya berupa csv yang bernama HasilTugas.csv"<<endl;
+    cout<<"Hasil filenya berupa csv yang bernama TebakanTugas1ML.csv"<<endl;
     cout<<"Note : jika ingin compile ulang, hapus dulu excel hasilnya, agar data tidak memanjang kebawah"<<endl;
-    output_file(dataTest, totalDataTest, "HasilTugas.csv");
+    output_file(dataTest, totalDataTest, "TebakanTugas1ML.csv");
 
     return 0;
 }
